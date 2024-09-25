@@ -3,3 +3,4 @@
 ## toto je změna provedená na lokále
 
 Jan Tichý
+v rámci předmětu IS
