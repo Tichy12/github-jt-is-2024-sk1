@@ -5,3 +5,5 @@
 Jan Tichý
 v rámci předmětu IS
 Test z lokálu 9:21
+
+Test z githubu 9:35
