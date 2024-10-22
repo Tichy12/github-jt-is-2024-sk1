@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\bin\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.exe
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\bin\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.deps.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\bin\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.runtimeconfig.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\bin\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\bin\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.AssemblyInfo.cs
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.sourcelink.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\refint\003-vykreslovani-obracu-trojuhelnik.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\003-vykreslovani-obracu-trojuhelnik.genruntimeconfig.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obracu-trojuhelnik\obj\Debug\net8.0\ref\003-vykreslovani-obracu-trojuhelnik.dll

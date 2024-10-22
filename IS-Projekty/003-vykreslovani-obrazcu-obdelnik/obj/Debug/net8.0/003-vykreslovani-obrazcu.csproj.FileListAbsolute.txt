@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.exe
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.deps.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.runtimeconfig.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.AssemblyInfo.cs
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.sourcelink.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\refint\003-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.genruntimeconfig.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\obj\Debug\net8.0\ref\003-vykreslovani-obrazcu.dll
