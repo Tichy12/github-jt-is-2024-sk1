@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\bin\Debug\net8.0\002-ciferni-soucet.exe
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\bin\Debug\net8.0\002-ciferni-soucet.deps.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\bin\Debug\net8.0\002-ciferni-soucet.runtimeconfig.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\bin\Debug\net8.0\002-ciferni-soucet.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\bin\Debug\net8.0\002-ciferni-soucet.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.AssemblyInfo.cs
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.sourcelink.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\refint\002-ciferni-soucet.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\002-ciferni-soucet.genruntimeconfig.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\002-ciferni-soucet\obj\Debug\net8.0\ref\002-ciferni-soucet.dll
