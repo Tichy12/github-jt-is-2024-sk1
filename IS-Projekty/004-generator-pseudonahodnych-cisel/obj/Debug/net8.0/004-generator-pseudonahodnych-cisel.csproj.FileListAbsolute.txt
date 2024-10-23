@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\bin\Debug\net8.0\004-generator-pseudonahodnych-cisel.exe
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\bin\Debug\net8.0\004-generator-pseudonahodnych-cisel.deps.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\bin\Debug\net8.0\004-generator-pseudonahodnych-cisel.runtimeconfig.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\bin\Debug\net8.0\004-generator-pseudonahodnych-cisel.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\bin\Debug\net8.0\004-generator-pseudonahodnych-cisel.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.AssemblyInfo.cs
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.sourcelink.json
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\refint\004-generator-pseudonahodnych-cisel.dll
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.pdb
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\004-generator-pseudonahodnych-cisel.genruntimeconfig.cache
+C:\aaa\IS-2024\github-jt-is-2024-sk1\IS-Projekty\004-generator-pseudonahodnych-cisel\obj\Debug\net8.0\ref\004-generator-pseudonahodnych-cisel.dll
